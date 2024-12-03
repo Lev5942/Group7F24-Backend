@@ -1,4 +1,4 @@
-drop database if exists drivemate;
+-- drop database if exists drivemate;
 CREATE DATABASE driveMate;
 
 USE driveMate;
